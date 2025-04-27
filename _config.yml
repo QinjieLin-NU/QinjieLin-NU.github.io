@@ -36,7 +36,7 @@ keywords:              [LLM, Robotics, AI, Planning]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /olds/images-qinjie/qinjie-circle.png
+logo:                  /assets/images-qinjie/qinjie-circle.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
