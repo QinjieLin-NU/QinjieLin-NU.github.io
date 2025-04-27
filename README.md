@@ -2,6 +2,17 @@
 
 A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
 
+## customize
+
+### `_config.yml`: right panel
+
+### `index.md`: about, research, pub and service. 
+
+### `./_data/social.yml`: contact in the right panel
+
+### `./_data/author.yml`
+
+
 ## Quick Start
 ### Running locally
 1. Clone repository (git users), or [download] and unzip.
