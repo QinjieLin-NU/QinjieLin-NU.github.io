@@ -15,7 +15,7 @@ I'm broadly interested in robot learning. My research focuses on efficiently sca
 
 [Email](mailto:qinjielin2018@u.northwestern.edu) / 
 <!-- <a href="https://github.com/QinjieLin-NU/QinjieLin-NU.github.io/blob/main/assets/data-qinjie/CV_QinjieLin-19.pdf" download="CV_QinjieLin.pdf" style="text-decoration: underline;">CV</a> /  -->
- <a href="assets/data-qinjie/CV.pdf" download="QinjieLin.pdf" style="text-decoration: underline;">CV</a> /
+ <a href="assets/data-qinjie/CV_19_printed.pdf" download="QinjieLin.pdf" style="text-decoration: underline;">CV</a> /
 [Google Scholar](https://scholar.google.com/citations?user=yIbFM0EAAAAJ&hl=en) / 
 [LinkedIn](https://www.linkedin.com/in/qinjie-lin-bb1512170/) / 
 [GitHub](https://github.com/QinjieLin-NU)
