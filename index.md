@@ -9,7 +9,7 @@ hide_description: True
 
 # About
 
-I’m a PhD in Computer Science at Northwestern University, advised by [Prof. Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html). My research focuses on efficiently scaling AI-driven robotics, publish at ICRA, ICLR, CVPR, and CoRL. I’ve interned at Meta Reality Lab, Meta’s Ranking & Foundational AI, and Zebra Tech.
+I’m a PhD in Computer Science at Northwestern University, advised by [Prof. Han Liu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html). My research focuses on efficiently scaling AI-driven robotics, published at ICRA, ICLR, CVPR, and CoRL. I’ve interned at Meta Reality Lab, Meta’s Ranking & Foundational AI, and Zebra Tech.
 
 I'm broadly interested in robot learning. My research focuses on efficiently scaling AI-driven robotics through computational systems and efficient decision-making. I'm drawn to developing simple, scalable methods that leverage both on-board and distributed compute to accelerate real-world robotic deployment.
 
