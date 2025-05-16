@@ -71,14 +71,14 @@ I'm broadly interested in robot learning. My research focuses on efficiently sca
 1. **CVPR 2025** - Free-viewpoint Human Animation with Pose-correlated Reference Selection  
    Fa-Ting Hong, Zhan Xu, Haiyang Liu, Qinjie Lin, Luchuan Song, Zhixin Shu, Yang Zhou, Duygu Ceylan, Dan Xu  
 
-2. **Working** - Building Time Series Foundation Model with High-Dimensional Covariates  
+2. **Working** -  A Time Series Foundation Model supporting High-Dimensional Covariates  
    Qinjie Lin, ..., Han Liu  
 
-3. **Working** - AURORA: A Time Series Foundational Model for Astrophysics  
-   Weijian Li, Qinjie Lin, Han Liu, ...  
+3. **Working** - A Time Series Foundational Model for Astrophysics  
+   ..., Qinjie Lin, Han Liu, ...  
 
-4. **Working** - GenomeAI: Integrated Fine-Tuning, Inference, and Benchmarking for Genomic Foundation Models  
-   Weimin Wu, Xuefeng Song, Qinjie Lin, Han Liu
+4. **Working** - Genomic benchmarks  
+   Weimin Wu, .... , Qinjie Lin, Han Liu
 
 
 ---
