@@ -72,13 +72,10 @@ I'm broadly interested in robot learning. My research focuses on efficiently sca
    Fa-Ting Hong, Zhan Xu, Haiyang Liu, Qinjie Lin, Luchuan Song, Zhixin Shu, Yang Zhou, Duygu Ceylan, Dan Xu  
 
 2. **Working** -  A Time Series Foundation Model supporting High-Dimensional Covariates  
-   Qinjie Lin, ..., Han Liu  
 
 3. **Working** - A Time Series Foundational Model for Astrophysics  
-   ..., Qinjie Lin, Han Liu, ...  
 
 4. **Working** - Genomic benchmarks  
-   Weimin Wu, .... , Qinjie Lin, Han Liu
 
 
 ---
