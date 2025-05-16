@@ -75,7 +75,7 @@ I'm broadly interested in robot learning. My research focuses on efficiently sca
 
 3. **Working** - A Time Series Foundational Model for Astrophysics  
 
-4. **Working** - Genomic benchmarks  
+4. **Working** - Genomic benchmark
 
 
 ---
